@@ -55,7 +55,7 @@ update:
   - platform: http_request
     id: update_http_request
     name: Firmware Update
-    source: https://apolloautomation.github.io/MTR-1/firmware/manifest.json
+    source: https://bharvey88.github.io/MTR-1/firmware/manifest.json
 
 packages:
   core: !include Core.yaml

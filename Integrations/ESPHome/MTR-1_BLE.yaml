@@ -44,7 +44,7 @@ update:
   - platform: http_request
     id: update_http_request
     name: Firmware Update
-    source: https://apolloautomation.github.io/MTR-1/firmware-ble/manifest.json
+    source: https://bharvey88.github.io/MTR-1/firmware-ble/manifest.json
 
 wifi:
   on_connect:
