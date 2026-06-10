@@ -57,3 +57,5 @@ packages:
   core: !include Core.yaml
 
 # Mock change 2 for update-changelog testing
+
+# Mock change 4 for update-changelog testing
