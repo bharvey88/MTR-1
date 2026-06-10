@@ -2,6 +2,7 @@ name-template: 'Release v$NEXT_PATCH_VERSION'
 tag-template: "$RESOLVED_VERSION"
 change-template: "- #$NUMBER $TITLE @$AUTHOR"
 sort-direction: ascending
+category-template: '**$TITLE**'
 
 categories:
   - title: "🚨 Breaking changes"
