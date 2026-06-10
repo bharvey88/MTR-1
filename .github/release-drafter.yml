@@ -47,4 +47,4 @@ template: |
 
   $CHANGES
 
-  **Full Changelog**: https://github.com/ApolloAutomation/MTR-1/compare/$PREVIOUS_TAG...$RESOLVED_VERSION.1
+  **Full Changelog**: https://github.com/bharvey88/MTR-1/compare/$PREVIOUS_TAG...main
