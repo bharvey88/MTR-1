@@ -60,3 +60,5 @@ esp32_ble_tracker:
 
 packages:
   core: !include Core.yaml
+
+# Mock change 3 for update-changelog testing
